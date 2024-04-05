@@ -1,6 +1,4 @@
 # A_Star_algorithm
-
-# ENPM661_Project3_Phase1
 \
 Dependencies to be installed: \
 a) NumPy \
